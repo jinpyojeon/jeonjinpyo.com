@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Static website hosted on AWS S3. This repo is synced to S3 bucket using AWS Pipeline feature. 
 
-Theme Name: Moderna
-Theme URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
+The theme I am using is Bootstrap-based theme called Moderna (https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/).
